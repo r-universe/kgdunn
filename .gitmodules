@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "pid"]
 	path = pid
-	url = https://github.com/cran/pid
+	url = https://github.com/kgdunn/r-package-pid-process-improvement-using-data
